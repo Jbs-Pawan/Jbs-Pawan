@@ -1,4 +1,4 @@
-Hghly inclined toward technology 
+
 
 <!---
 Jbs-Pawan/Jbs-Pawan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
